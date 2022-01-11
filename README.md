@@ -1,3 +1,3 @@
 # Run-Buddy
 
-### This is the develop branch
+This is the main branch
